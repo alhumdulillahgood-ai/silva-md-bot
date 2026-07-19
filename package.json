@@ -49,7 +49,7 @@
     "@hapi/boom": "^10.0.1",
     "@replit/connectors-sdk": "^0.2.0",
     "@shineiichijo/marika": "^3.0.1",
-    "scraper": "https://github.com/StarlightsTeam/Scraper/archive/refs/heads/main.tar.gz",
+    
     "sumifx-scraper": "https://github.com/SumiFX/SumiFX-Scraper/archive/refs/heads/main.tar.gz",
     "@vitalets/google-translate-api": "^9.2.1",
     "@whiskeysockets/baileys": "npm:bungoma@1.0.0",
