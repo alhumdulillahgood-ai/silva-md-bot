@@ -75,7 +75,7 @@
     "wa-sticker-formatter": {
       "file-type": "^22.0.1"
     },
-    "libsignal-node": "git+https://github.com/WhiskeySockets/libsignal-node.git"
+    "libsignal-node": "^0.12.1"
   },
   "devDependencies": {
     "prettier": "^3.2.5"
